@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: androiddeviceyear
+author: Louis Quaintance
+license: MIT
+copyright: Louis Quaintance APS
+
+# these should not be edited
+name: androiddeviceyear
+moduleid: com.ti.androiddeviceyear
+guid: a7dd570e-0a43-4cf6-a39c-79072ce0c58f
+platform: android
+minsdk: 5.2.0.GA
