@@ -6,8 +6,6 @@ Sometimes its necessary on Android to degrade performance for low end devices. T
 
 ###Methods/Functions
 
-initialize, returns a boolean, a false indicates something has fallen over, i am catching java.lang.Throwable just in case something bad happens
-
 ```
 require("com.ti.androiddeviceyear").getDeviceYear();
 ```
