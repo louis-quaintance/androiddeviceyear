@@ -5,7 +5,7 @@
 version: 1.0.0
 apiversion: 2
 architectures: armeabi armeabi-v7a x86
-description: androiddeviceyear
+description: Module to expose way of determining when Android device was considered high end
 author: Louis Quaintance
 license: MIT
 copyright: Louis Quaintance APS
